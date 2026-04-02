@@ -1,0 +1,4 @@
+input.pdf
+output.xlsx
+__pycache__/
+.venv/
